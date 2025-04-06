@@ -1,0 +1,65 @@
+{
+  "same_color/yellow.jpg": {
+    "image_path": "same_color/yellow.jpg",
+    "attributes": [
+      "coat",
+      "long-sleeve",
+      "3/4 sleeve",
+      "chiffon",
+      "midi dress"
+    ],
+    "description": "The image shows a professional business suit consisting of a tailored gray blazer paired with a matching knee-length pencil skirt. The outfit is complemented by a bright yellow button-up shirt, a yellow handbag, and camel-colored peep-toe heels. The blazer features a pocket square in an orange/camel shade that coordinates with the footwear.",
+    "color": "Gray suit with bright yellow accents and camel accessories",
+    "material": "Structured wool blend or textured fabric for the suit, cotton or silk for the shirt",
+    "occasion": "Professional workplace, business meetings, formal office settings",
+    "style": "Corporate business attire, professional suit",
+    "season": "Fall, winter, spring",
+    "unique_feature": "The vibrant yellow shirt and matching handbag that create a bold contrast against the conservative gray suit",
+    "era": "Contemporary business attire with classic silhouette",
+    "casual_or_relaxed": false,
+    "visual_aesthetic": "Polished, confident, professional, coordinated",
+    "hardware": "Blazer buttons, structured handbag with possible metal detailing"
+  },
+  "same_color/green.jpg": {
+    "image_path": "same_color/green.jpg",
+    "attributes": [
+      "coat",
+      "long-sleeve",
+      "3/4 sleeve",
+      "midi dress",
+      "colorblock"
+    ],
+    "description": "A tailored gray business suit consisting of a fitted blazer and matching pencil skirt, paired with a mint green button-up shirt. The outfit is accessorized with a mint green handbag and matching peep-toe heels. A colorful pocket square adds a pop of visual interest.",
+    "color": "Gray with mint green accents",
+    "material": "Appears to be wool or wool blend with subtle texture for the suit",
+    "occasion": "Business, professional, corporate, formal workplace",
+    "style": "Professional business attire with feminine touches",
+    "season": "Fall, winter, spring",
+    "unique_feature": "The coordinated mint green accessories that brighten the classic gray suit",
+    "era": "Contemporary professional wear with classic silhouette",
+    "casual_or_relaxed": false,
+    "visual_aesthetic": "Polished, professional, refined, structured",
+    "hardware": "Buttons on the blazer, likely metal hardware on the mint handbag"
+  },
+  "same_color/purple.jpg": {
+    "image_path": "same_color/purple.jpg",
+    "attributes": [
+      "coat",
+      "long-sleeve",
+      "v-neck",
+      "midi dress",
+      "3/4 sleeve"
+    ],
+    "description": "The image shows a professional grey skirt suit with a lavender button-up shirt. The outfit consists of a fitted grey blazer, a knee-length pencil skirt, and is complemented by a light purple blouse with collar. The ensemble is accessorized with a matching lavender handbag and purple peep-toe heels. A colorful pocket square adds a subtle accent to the blazer.",
+    "color": "Grey suit with lavender/light purple accents",
+    "material": "Appears to be wool or wool blend for the suit, cotton or silk for the shirt",
+    "occasion": "Professional, business, office, corporate meetings, formal workplace",
+    "style": "Business formal, corporate chic",
+    "season": "Fall, winter, spring",
+    "unique_feature": "Color coordination between the lavender shirt, handbag, and shoes creating a cohesive look",
+    "era": "Contemporary business attire with classic elements",
+    "casual_or_relaxed": false,
+    "visual_aesthetic": "Polished, professional, tailored, feminine corporate",
+    "hardware": "Buttons on blazer, possible metal details on the purple handbag"
+  }
+}

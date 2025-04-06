@@ -1,0 +1,195 @@
+{
+  "same_color/yellow.jpg": [
+    {
+      "color": "gray",
+      "material": "textured wool blend",
+      "occasion": "professional, business",
+      "style": "tailored blazer",
+      "season": "fall/winter",
+      "unique_feature": "orange pocket square accent",
+      "era": "contemporary, modern",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "structured, professional, polished",
+      "hardware": "dark buttons",
+      "attribute": "coat"
+    },
+    {
+      "color": "gray",
+      "material": "textured wool blend",
+      "occasion": "business, office, professional setting",
+      "style": "tailored, structured blazer",
+      "season": "fall/winter",
+      "unique_feature": "contrast orange pocket square, slim fit with three-button closure",
+      "era": "modern professional",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "polished corporate, business formal",
+      "hardware": "dark buttons, likely plastic or coated",
+      "attribute": "long-sleeve"
+    },
+    {
+      "color": "gray",
+      "material": "wool blend or textured jersey",
+      "occasion": "business, professional, office",
+      "style": "tailored, structured",
+      "season": "fall/winter or year-round",
+      "unique_feature": "full-length rather than 3/4 length, fitted silhouette",
+      "era": "contemporary, modern professional",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "corporate, polished, professional",
+      "hardware": "dark buttons for closure",
+      "attribute": "3/4 sleeve"
+    },
+    {
+      "error": "No JSON in response",
+      "attribute": "chiffon"
+    },
+    {
+      "color": "gray",
+      "material": "wool blend",
+      "occasion": "business formal",
+      "style": "pencil skirt",
+      "season": "fall/winter",
+      "unique_feature": "part of a matching suit set with coordinating blazer",
+      "era": "contemporary business wear",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "professional, tailored, structured",
+      "hardware": "likely hidden zipper closure",
+      "attribute": "midi dress"
+    }
+  ],
+  "same_color/green.jpg": [
+    {
+      "color": "grey",
+      "material": "tweed or wool blend",
+      "occasion": "business formal",
+      "style": "fitted blazer",
+      "season": "fall/winter",
+      "unique_feature": "mint green pocket square accent",
+      "era": "contemporary business attire",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "professional tailored",
+      "hardware": "dark buttons",
+      "attribute": "coat"
+    },
+    {
+      "color": "gray",
+      "material": "wool blend tweed",
+      "occasion": "business formal",
+      "style": "tailored professional",
+      "season": "fall/winter",
+      "unique_feature": "structured shoulders with classic button closure",
+      "era": "contemporary business attire",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "polished corporate",
+      "hardware": "dark buttons",
+      "attribute": "long-sleeve"
+    },
+    {
+      "color": "N/A - no 3/4 sleeve present",
+      "material": "N/A - no 3/4 sleeve present",
+      "occasion": "N/A - no 3/4 sleeve present",
+      "style": "N/A - no 3/4 sleeve present",
+      "season": "N/A - no 3/4 sleeve present",
+      "unique_feature": "N/A - no 3/4 sleeve present",
+      "era": "N/A - no 3/4 sleeve present",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "N/A - no 3/4 sleeve present",
+      "hardware": "N/A - no 3/4 sleeve present",
+      "attribute": "3/4 sleeve"
+    },
+    {
+      "color": "grey",
+      "material": "wool blend with textured weave",
+      "occasion": "professional, business, office",
+      "style": "tailored pencil skirt",
+      "season": "fall/winter",
+      "unique_feature": "matching suit set with coordinating jacket and bow detail at waist",
+      "era": "contemporary with classic professional styling",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "polished corporate, professional chic",
+      "hardware": "likely has hidden back zipper",
+      "attribute": "midi dress"
+    },
+    {
+      "color": "gray and mint green",
+      "material": "wool blend for suit, cotton for shirt",
+      "occasion": "professional, business formal",
+      "style": "corporate chic, business professional with subtle colorblocking",
+      "season": "fall/winter, transitional seasons",
+      "unique_feature": "mint green accents (shirt collar, pocket square, accessories) contrasting with gray suit",
+      "era": "contemporary business attire with modern colorblocking",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "sophisticated professional with subtle color contrast",
+      "hardware": "buttons on blazer, likely metal fixtures on mint handbag",
+      "attribute": "colorblock"
+    }
+  ],
+  "same_color/purple.jpg": [
+    {
+      "color": "charcoal gray",
+      "material": "wool blend",
+      "occasion": "business formal",
+      "style": "tailored blazer",
+      "season": "fall/winter",
+      "unique_feature": "contrast pocket square in yellow/lavender tones",
+      "era": "2010s",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "professional business attire",
+      "hardware": "dark buttons",
+      "attribute": "coat"
+    },
+    {
+      "color": "charcoal gray",
+      "material": "wool blend",
+      "occasion": "business formal",
+      "style": "tailored blazer",
+      "season": "fall/winter",
+      "unique_feature": "structured shoulders with clean lines",
+      "era": "2010s",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "professional corporate",
+      "hardware": "dark buttons",
+      "attribute": "long-sleeve"
+    },
+    {
+      "color": "N/A",
+      "material": "N/A",
+      "occasion": "N/A",
+      "style": "N/A",
+      "season": "N/A",
+      "unique_feature": "N/A",
+      "era": "N/A",
+      "casual_or_relaxed": null,
+      "visual_aesthetic": "N/A",
+      "hardware": "N/A",
+      "note": "The garment in the image does not feature a v-neck design. Instead, it shows a button-up shirt with a traditional pointed collar under a gray suit jacket.",
+      "attribute": "v-neck"
+    },
+    {
+      "color": "charcoal gray with lavender accents",
+      "material": "wool blend suiting fabric",
+      "occasion": "business professional, office, corporate meeting",
+      "style": "tailored business suit with pencil skirt",
+      "season": "fall/winter",
+      "unique_feature": "lavender shirt and matching accessories creating color coordination",
+      "era": "2000s/2010s business professional",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "polished corporate chic",
+      "hardware": "structured handbag with metal hardware, blazer buttons",
+      "attribute": "midi dress"
+    },
+    {
+      "color": "not applicable - no 3/4 sleeve present",
+      "material": "not applicable - no 3/4 sleeve present",
+      "occasion": "not applicable - no 3/4 sleeve present",
+      "style": "not applicable - no 3/4 sleeve present",
+      "season": "not applicable - no 3/4 sleeve present",
+      "unique_feature": "not applicable - no 3/4 sleeve present",
+      "era": "not applicable - no 3/4 sleeve present",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "not applicable - no 3/4 sleeve present",
+      "hardware": "not applicable - no 3/4 sleeve present",
+      "attribute": "3/4 sleeve"
+    }
+  ]
+}

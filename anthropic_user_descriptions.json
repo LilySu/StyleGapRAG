@@ -1,0 +1,475 @@
+{
+    "user/IMG_7394.JPG": [
+      {
+        "color": "black",
+        "material": "knit/stretch fabric",
+        "occasion": "casual, everyday",
+        "style": "basic leggings/tights",
+        "season": "fall/winter",
+        "unique_feature": "opaque finish, worn under pleated skirt",
+        "era": "contemporary",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "minimalist, practical",
+        "hardware": "none visible",
+        "attribute": "pants"
+      },
+      {
+        "color": "cream/off-white",
+        "material": "chunky cable knit wool/acrylic blend",
+        "occasion": "casual everyday, weekend outings",
+        "style": "cropped cable knit sweater",
+        "season": "fall/winter",
+        "unique_feature": "textured cable pattern with ribbed mock neck and cuffs",
+        "era": "contemporary with vintage-inspired elements",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "cozy, textural, slightly preppy",
+        "hardware": "none visible",
+        "attribute": "knit"
+      },
+      {
+        "color": "cream/off-white",
+        "material": "knitted wool/cable knit",
+        "occasion": "casual, everyday wear",
+        "style": "cropped cable knit sweater",
+        "season": "fall/winter",
+        "unique_feature": "chunky cable knit pattern, ribbed cuffs, voluminous silhouette",
+        "era": "contemporary with classic knitting technique",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "cozy, textural, slightly oversized",
+        "hardware": "none visible",
+        "attribute": "long-sleeve"
+      },
+      {
+        "color": "cream white",
+        "material": "cable knit wool blend",
+        "occasion": "casual, everyday wear",
+        "style": "cropped cable knit sweater",
+        "season": "fall/winter",
+        "unique_feature": "textured cable knit pattern with mock neck",
+        "era": "contemporary with 90s inspiration",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "cozy minimalist",
+        "hardware": "none visible",
+        "attribute": "top"
+      },
+      {
+        "color": "cream/off-white",
+        "material": "chunky cable knit wool/acrylic blend",
+        "occasion": "casual, everyday wear",
+        "style": "cropped cable knit",
+        "season": "fall/winter",
+        "unique_feature": "textured cable knit pattern with ribbed collar and cuffs",
+        "era": "contemporary with vintage-inspired elements",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "cozy, minimalist, classic",
+        "hardware": "none visible",
+        "attribute": "crewneck"
+      }
+    ],
+    "user/IMG_7344.JPG": [
+      {
+        "color": "black",
+        "material": "likely nylon/spandex blend",
+        "occasion": "casual, everyday wear",
+        "style": "basic opaque tights/leggings",
+        "season": "fall/winter",
+        "unique_feature": "full opacity, worn under patterned skirt",
+        "era": "contemporary",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "minimalist, practical layering piece",
+        "hardware": "none visible, likely elastic waistband",
+        "attribute": "pants"
+      },
+      {
+        "color": "cream/off-white",
+        "material": "textured knit, possibly boucle or terry texture",
+        "occasion": "casual, everyday wear",
+        "style": "cropped sweater with straight hem",
+        "season": "fall/winter, transitional",
+        "unique_feature": "cropped length with full-length sleeves creating proportion contrast",
+        "era": "contemporary, modern minimalist",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "clean, minimal, slightly textured surface with simple silhouette",
+        "hardware": "none visible",
+        "attribute": "long-sleeve"
+      },
+      {
+        "color": "cream/off-white",
+        "material": "textured knit, possibly wool blend or acrylic",
+        "occasion": "casual, everyday wear",
+        "style": "cropped sweater with ribbed hem",
+        "season": "fall/winter",
+        "unique_feature": "cropped length with clean finished edges",
+        "era": "contemporary, minimalist",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "modern minimalist with slight 90s influence",
+        "hardware": "none visible",
+        "attribute": "knit"
+      },
+      {
+        "color": "off-white/cream",
+        "material": "textured knit, possibly boucl\u00e9 or textured cotton blend",
+        "occasion": "casual, everyday wear",
+        "style": "cropped, contemporary",
+        "season": "fall/winter or transitional",
+        "unique_feature": "cropped length with ribbed hem",
+        "era": "contemporary, 2020s",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "minimalist, clean lines with subtle texture",
+        "hardware": "none visible",
+        "attribute": "crewneck"
+      },
+      {
+        "error": "No JSON in response",
+        "attribute": "coat"
+      }
+    ],
+    "user/IMG_7268.JPG": [
+      {
+        "color": "black",
+        "material": "likely spandex/nylon blend",
+        "occasion": "casual, everyday wear",
+        "style": "basic leggings/tights",
+        "season": "fall/winter, layering piece",
+        "unique_feature": "opaque finish, worn under pleated skirt",
+        "era": "contemporary",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "practical, versatile base layer",
+        "hardware": "none visible, likely elastic waistband",
+        "attribute": "pants"
+      },
+      {
+        "color": "navy blue and camel/tan",
+        "material": "knit textile with geometric pattern",
+        "occasion": "casual to semi-formal",
+        "style": "pleated A-line skirt with geometric pattern",
+        "season": "fall/winter",
+        "unique_feature": "geometric chain-link pattern with horizontal striped border at hem",
+        "era": "contemporary with vintage-inspired pattern",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "preppy, academic, business casual",
+        "hardware": "elastic waistband, no visible external hardware",
+        "attribute": "knit"
+      },
+      {
+        "error": "No JSON in response",
+        "attribute": "suit pants"
+      },
+      {
+        "color": "white",
+        "material": "appears to be a lightweight fabric, possibly polyester or silk blend",
+        "occasion": "business casual, office wear, semi-formal gatherings",
+        "style": "minimalist blouse with subtle collar detail",
+        "season": "year-round, transitional piece",
+        "unique_feature": "subtle folded or layered collar detail with clean lines",
+        "era": "contemporary, modern minimalist",
+        "casual_or_relaxed": false,
+        "visual_aesthetic": "polished, professional, understated elegance",
+        "hardware": "none visible, likely has hidden or minimal closures",
+        "attribute": "long-sleeve"
+      },
+      {
+        "error": "No JSON in response",
+        "attribute": "sweatpants"
+      }
+    ],
+    "user/IMG_7446.JPG": [
+      {
+        "color": "cream/ivory",
+        "material": "chunky knit, likely wool or wool blend",
+        "occasion": "casual, semi-formal gatherings",
+        "style": "puff sleeve cable knit sweater",
+        "season": "fall/winter",
+        "unique_feature": "voluminous puff sleeves with fitted cuffs",
+        "era": "contemporary with vintage-inspired elements",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "feminine cottagecore with textural interest",
+        "hardware": "none visible",
+        "attribute": "long-sleeve"
+      },
+      {
+        "color": "cream/ivory",
+        "material": "chunky knit wool/acrylic blend",
+        "occasion": "casual day wear, office casual",
+        "style": "feminine vintage-inspired",
+        "season": "fall/winter",
+        "unique_feature": "puffed short sleeves with ribbed cuffs, cable knit pattern",
+        "era": "contemporary with 1980s/1990s inspiration",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "cozy preppy",
+        "hardware": "none visible",
+        "attribute": "crewneck"
+      },
+      {
+        "color": "cream/ivory",
+        "material": "chunky wool blend",
+        "occasion": "casual day wear, weekend outings",
+        "style": "puff sleeve cable knit sweater",
+        "season": "fall/winter",
+        "unique_feature": "voluminous short puff sleeves with ribbed texture and diamond cable pattern on bodice",
+        "era": "contemporary with 1980s-inspired sleeve silhouette",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "cozy feminine vintage-inspired",
+        "hardware": "none visible",
+        "attribute": "knit"
+      },
+      {
+        "color": "black",
+        "material": "likely nylon/spandex blend",
+        "occasion": "casual, everyday wear",
+        "style": "basic opaque tights/leggings",
+        "season": "fall/winter",
+        "unique_feature": "full opacity, worn under skirt",
+        "era": "contemporary",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "practical layering piece",
+        "hardware": "elastic waistband (presumed, not visible)",
+        "attribute": "pants"
+      },
+      {
+        "color": "cream white top with navy and camel patterned skirt",
+        "material": "cable knit for top, appears to be pleated fabric for skirt",
+        "occasion": "casual daytime, office casual",
+        "style": "preppy, feminine vintage-inspired",
+        "season": "fall/winter",
+        "unique_feature": "geometric chain-link pattern on skirt with horizontal banding",
+        "era": "modern with 1970s pattern inspiration",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "preppy academia with vintage pattern elements",
+        "hardware": "none visible",
+        "attribute": "graphic"
+      }
+    ],
+    "user/IMG_7453.JPG": [
+      {
+        "error": "No JSON in response",
+        "attribute": "long-sleeve"
+      },
+      {
+        "error": "No JSON in response",
+        "attribute": "coat"
+      },
+      {
+        "color": "black",
+        "material": "likely nylon/spandex blend",
+        "occasion": "casual, everyday",
+        "style": "fitted leggings/tights",
+        "season": "fall/winter",
+        "unique_feature": "worn as a layering piece under a patterned skirt",
+        "era": "contemporary",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "minimalist, practical",
+        "hardware": "none visible",
+        "attribute": "pants"
+      },
+      {
+        "color": "white",
+        "material": "cotton blend",
+        "occasion": "casual",
+        "style": "fitted",
+        "season": "spring/summer",
+        "unique_feature": "short sleeves with structured seaming",
+        "era": "contemporary",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "minimalist",
+        "hardware": "none",
+        "attribute": "crewneck"
+      },
+      {
+        "color": "navy blue and camel/tan pattern",
+        "material": "knit fabric, likely a medium-weight synthetic blend",
+        "occasion": "casual, day-to-day wear, office casual",
+        "style": "pleated skirt with geometric pattern",
+        "season": "fall/winter, transitional",
+        "unique_feature": "geometric zigzag/diamond pattern with horizontal striped border detail",
+        "era": "contemporary with vintage-inspired pattern",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "preppy, collegiate, retro-inspired",
+        "hardware": "elastic waistband, no visible zippers or buttons",
+        "attribute": "knit"
+      }
+    ],
+    "user/IMG_7336.JPG": [
+      {
+        "color": "navy/black",
+        "material": "likely jersey or nylon blend",
+        "occasion": "casual, everyday",
+        "style": "basic leggings/tights",
+        "season": "fall/winter",
+        "unique_feature": "worn under a patterned pleated skirt",
+        "era": "contemporary",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "practical layering piece",
+        "hardware": "elastic waistband (presumed)",
+        "attribute": "pants"
+      },
+      {
+        "color": "white",
+        "material": "appears to be a lightweight fabric, possibly silk or polyester blend",
+        "occasion": "business casual, office wear, semi-formal gatherings",
+        "style": "preppy, nautical-inspired blouse with tie neck",
+        "season": "year-round, particularly spring/fall",
+        "unique_feature": "striped ribbon necktie and diagonal navy stripe details on the front",
+        "era": "contemporary with vintage-inspired elements reminiscent of 1970s secretary blouses",
+        "casual_or_relaxed": false,
+        "visual_aesthetic": "polished, sophisticated, preppy",
+        "hardware": "none visible, likely has standard buttons for closure",
+        "attribute": "long-sleeve"
+      },
+      {
+        "color": "brown and navy blue geometric pattern",
+        "material": "knit fabric, likely a synthetic blend",
+        "occasion": "casual, office, semi-formal",
+        "style": "pleated skirt with geometric pattern",
+        "season": "fall/winter",
+        "unique_feature": "chain-link geometric pattern with pleated bottom section",
+        "era": "contemporary with vintage-inspired pattern",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "preppy, collegiate, retro-inspired",
+        "hardware": "elastic waistband, no visible external hardware",
+        "attribute": "knit"
+      },
+      {
+        "error": "No JSON in response",
+        "attribute": "crewneck"
+      },
+      {
+        "color": "white",
+        "material": "appears to be a lightweight fabric, possibly polyester or silk blend",
+        "occasion": "business casual, office, semi-formal",
+        "style": "preppy, professional, feminine",
+        "season": "year-round, transitional",
+        "unique_feature": "striped navy and white necktie/bow detail, decorative navy diagonal stripes on chest",
+        "era": "contemporary with vintage-inspired elements",
+        "casual_or_relaxed": false,
+        "visual_aesthetic": "polished, preppy, nautical-inspired",
+        "hardware": "none visible",
+        "attribute": "t-shirt"
+      }
+    ],
+    "user/IMG_7503.JPG": [
+      {
+        "color": "navy blue and camel/tan pattern",
+        "material": "appears to be knit or pleated fabric",
+        "occasion": "casual to smart casual",
+        "style": "pleated skirt with geometric pattern",
+        "season": "fall/autumn or spring",
+        "unique_feature": "geometric chain-like pattern with horizontal striped border at bottom hem",
+        "era": "contemporary with vintage-inspired pattern",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "preppy, retro-inspired",
+        "hardware": "elastic waistband, no visible zippers or buttons",
+        "attribute": "pants"
+      },
+      {
+        "color": "white",
+        "material": "ribbed knit fabric",
+        "occasion": "casual, athleisure",
+        "style": "minimalist, athletic-inspired",
+        "season": "spring/summer",
+        "unique_feature": "sleeveless design with structured crew neckline",
+        "era": "contemporary, 2020s",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "clean, sporty, versatile",
+        "hardware": "none visible",
+        "attribute": "crewneck"
+      },
+      {
+        "error": "No JSON in response",
+        "attribute": "long-sleeve"
+      },
+      {
+        "color": "Navy blue and camel brown",
+        "material": "Appears to be knit or lightweight pleated fabric",
+        "occasion": "Casual to semi-casual",
+        "style": "A-line pleated skirt with geometric chain-link pattern",
+        "season": "Fall/Winter or transitional seasons",
+        "unique_feature": "Distinctive chain-link pattern with horizontal striped border at hem",
+        "era": "Contemporary with retro 1970s geometric influence",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "Geometric, preppy, vintage-inspired",
+        "hardware": "Elastic waistband, no visible external hardware",
+        "attribute": "graphic"
+      },
+      {
+        "color": "white",
+        "material": "ribbed cotton blend",
+        "occasion": "casual, athleisure",
+        "style": "crop top",
+        "season": "spring/summer",
+        "unique_feature": "square neckline, sleeveless design, cropped length",
+        "era": "contemporary, 2020s",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "minimalist, modern, athletic-inspired",
+        "hardware": "none visible",
+        "attribute": "t-shirt"
+      }
+    ],
+    "user/IMG_7567.JPG": [
+      {
+        "color": "black",
+        "material": "knit fabric, likely cotton blend with spandex",
+        "occasion": "casual, everyday wear",
+        "style": "basic opaque leggings",
+        "season": "fall/winter or transitional",
+        "unique_feature": "full-length coverage, worn under a pleated skirt",
+        "era": "contemporary",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "minimalist, practical layering piece",
+        "hardware": "none visible, likely elastic waistband",
+        "attribute": "pants"
+      },
+      {
+        "color": "white/ivory",
+        "material": "soft stretch jersey/cotton blend",
+        "occasion": "casual, everyday wear",
+        "style": "fitted, square-neck, bodycon",
+        "season": "transitional, can be layered for all seasons",
+        "unique_feature": "square neckline with thin binding/trim",
+        "era": "contemporary, modern basics",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "minimalist, clean lines, form-fitting",
+        "hardware": "none visible",
+        "attribute": "long-sleeve"
+      },
+      {
+        "color": "white/ivory",
+        "material": "stretch jersey or cotton blend",
+        "occasion": "casual, everyday wear",
+        "style": "fitted, basic layering piece",
+        "season": "all-season, versatile",
+        "unique_feature": "square neckline with thin trim, form-fitting silhouette",
+        "era": "contemporary, modern basics",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "minimalist, clean lines",
+        "hardware": "none visible",
+        "attribute": "crewneck"
+      },
+      {
+        "color": "navy blue and camel/tan pattern",
+        "material": "appears to be knit fabric, possibly wool blend",
+        "occasion": "casual to semi-casual",
+        "style": "pleated geometric pattern skirt",
+        "season": "fall/winter",
+        "unique_feature": "chain-link or interlocking geometric pattern with horizontal stripe detail at hem",
+        "era": "contemporary with vintage-inspired pattern reminiscent of 1970s",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "preppy, collegiate, retro-inspired",
+        "hardware": "none visible",
+        "attribute": "graphic"
+      },
+      {
+        "color": "white and navy with camel/tan pattern",
+        "material": "stretch jersey for the top, knit fabric for the skirt",
+        "occasion": "casual to semi-casual",
+        "style": "contemporary classic",
+        "season": "fall/winter or transitional",
+        "unique_feature": "geometric chain-link pattern on the pleated skirt",
+        "era": "modern with vintage-inspired pattern",
+        "casual_or_relaxed": true,
+        "visual_aesthetic": "preppy, collegiate",
+        "hardware": "none visible",
+        "attribute": "knit"
+      }
+    ]
+  }

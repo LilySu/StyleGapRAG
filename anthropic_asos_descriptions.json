@@ -1,0 +1,618 @@
+{
+  "asos-tops/tops_43_.jpg": [
+    {
+      "color": "white",
+      "material": "appears to be cotton or jersey knit",
+      "occasion": "casual, day-to-day, office casual",
+      "style": "contemporary, minimalist",
+      "season": "spring/summer",
+      "unique_feature": "ruched side detail with visible buttons or closures, asymmetrical hemline",
+      "era": "modern, current",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "clean, modern, structured casual",
+      "hardware": "side buttons or closures visible on the ruched section",
+      "attribute": "long-sleeve"
+    },
+    {
+      "color": "white",
+      "material": "cotton blend",
+      "occasion": "casual to smart-casual",
+      "style": "contemporary minimalist",
+      "season": "spring/summer",
+      "unique_feature": "ruched side detail with buttons",
+      "era": "modern contemporary",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "clean, minimalist, elevated basics",
+      "hardware": "decorative side buttons",
+      "attribute": "top"
+    },
+    {
+      "color": "white",
+      "material": "cotton blend",
+      "occasion": "casual to semi-formal",
+      "style": "contemporary asymmetric",
+      "season": "spring/summer",
+      "unique_feature": "side ruching with button details along the side seam",
+      "era": "modern minimalist",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "sleek, minimalist with architectural silhouette",
+      "hardware": "small decorative buttons on side seam",
+      "attribute": "shirt"
+    },
+    {
+      "color": "white",
+      "material": "appears to be cotton or cotton blend",
+      "occasion": "casual to semi-formal",
+      "style": "contemporary asymmetric top",
+      "season": "spring/summer",
+      "unique_feature": "side ruching with buttons creating asymmetric hemline",
+      "era": "modern/contemporary",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist with structural interest",
+      "hardware": "decorative buttons on side",
+      "attribute": "v-neck"
+    },
+    {
+      "color": "white",
+      "material": "cotton blend",
+      "occasion": "casual to semi-formal",
+      "style": "contemporary asymmetric",
+      "season": "spring/summer",
+      "unique_feature": "side ruching with asymmetrical hem",
+      "era": "modern minimalist",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "sleek, minimalist",
+      "hardware": "none visible",
+      "attribute": "3/4 sleeve"
+    }
+  ],
+  "asos-tops/tops_14_.jpg": [
+    {
+      "color": "white",
+      "material": "cotton jersey",
+      "occasion": "casual everyday wear",
+      "style": "oversized graphic tee",
+      "season": "spring/summer",
+      "unique_feature": "minimal ribbed neckline with clean finished edge",
+      "era": "contemporary with vintage graphic inspiration",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "urban streetwear",
+      "hardware": "none",
+      "attribute": "crewneck"
+    },
+    {
+      "color": "white",
+      "material": "cotton jersey",
+      "occasion": "casual, everyday wear",
+      "style": "oversized graphic tee",
+      "season": "spring/summer",
+      "unique_feature": "vintage-inspired New York city bus graphic print in red with text 'SINCE 1846'",
+      "era": "contemporary with nostalgic vintage elements",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "urban nostalgic, streetwear",
+      "hardware": "none",
+      "attribute": "long-sleeve"
+    },
+    {
+      "color": "Red on white",
+      "material": "Cotton blend (typical for graphic tees)",
+      "occasion": "Casual, streetwear, tourist",
+      "style": "Vintage-inspired graphic tee, oversized fit",
+      "season": "Spring/Summer",
+      "unique_feature": "Large New York city double-decker bus illustration with 'NEW YORK' text in bold red lettering, includes bicycle graphic and 'SINCE 1846' text",
+      "era": "Contemporary with nostalgic/vintage design elements",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "Urban souvenir, touristic, retro Americana",
+      "hardware": "None visible",
+      "attribute": "graphic"
+    },
+    {
+      "error": "No JSON in response",
+      "attribute": "coat"
+    },
+    {
+      "color": "white",
+      "material": "cotton jersey",
+      "occasion": "casual everyday wear",
+      "style": "oversized graphic t-shirt",
+      "season": "spring/summer",
+      "unique_feature": "large red New York double-decker bus graphic with text 'NEW YORK' and 'SINCE 1846'",
+      "era": "contemporary with vintage graphic aesthetic",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "urban nostalgic, tourist souvenir inspired",
+      "hardware": "none",
+      "attribute": "hoodie"
+    }
+  ],
+  "asos-shoes/shoes_27_.jpg": [
+    {
+      "color": "black",
+      "material": "leather",
+      "occasion": "formal to semi-formal",
+      "style": "pointed toe ankle boots",
+      "season": "fall/winter",
+      "unique_feature": "slim stiletto heel with pointed toe silhouette",
+      "era": "modern with 90s/early 2000s influence",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "sleek, polished, sophisticated",
+      "hardware": "none visible",
+      "attribute": "leather"
+    },
+    {
+      "color": "black",
+      "material": "leather",
+      "occasion": "formal, business, evening",
+      "style": "pointed toe ankle boots",
+      "season": "fall, winter",
+      "unique_feature": "stiletto heel, pointed toe design",
+      "era": "contemporary, modern",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "sleek, sophisticated, minimalist",
+      "hardware": "none visible",
+      "attribute": "colorblock"
+    },
+    {
+      "color": "black",
+      "material": "leather",
+      "occasion": "formal, business, evening",
+      "style": "ankle boots with pointed toe and stiletto heel",
+      "season": "fall, winter",
+      "unique_feature": "sleek silhouette with pointed toe and thin mid-height heel",
+      "era": "contemporary, modern",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "sophisticated, elegant, minimalist",
+      "hardware": "none visible",
+      "attribute": "boots"
+    },
+    {
+      "error": "No JSON in response",
+      "attribute": "pants"
+    },
+    {
+      "color": "black",
+      "material": "leather",
+      "occasion": "formal, business, evening",
+      "style": "pointed-toe ankle boots",
+      "season": "fall, winter",
+      "unique_feature": "slim stiletto heel, pointed toe, minimalist design",
+      "era": "contemporary, modern",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "sleek, sophisticated, elegant",
+      "hardware": "none visible",
+      "attribute": "chambray/denim"
+    }
+  ],
+  "asos-shoes/shoes_31_.jpg": [
+    {
+      "color": "beige/cream",
+      "material": "textured fabric (appears to be canvas or linen)",
+      "occasion": "casual to smart-casual",
+      "style": "loafer",
+      "season": "spring/summer",
+      "unique_feature": "gold-tone metal horsebit-style bar detail across vamp",
+      "era": "contemporary with classic influence",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist preppy",
+      "hardware": "gold-tone metal bar/horsebit accent",
+      "attribute": "sleeveless"
+    },
+    {
+      "color": "beige/cream",
+      "material": "textured fabric with leather accents",
+      "occasion": "casual to smart casual",
+      "style": "loafer",
+      "season": "spring/summer",
+      "unique_feature": "gold metal bar hardware across vamp",
+      "era": "contemporary classic",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist elegant",
+      "hardware": "gold horizontal metal bar",
+      "attribute": "leather"
+    },
+    {
+      "color": "beige/cream",
+      "material": "textured fabric or linen",
+      "occasion": "casual to business casual",
+      "style": "loafer",
+      "season": "spring/summer",
+      "unique_feature": "gold metal horse-bit style hardware across vamp",
+      "era": "timeless classic with contemporary styling",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist, refined casual",
+      "hardware": "gold metallic bar detail on upper",
+      "attribute": "colorblock"
+    },
+    {
+      "error": "No JSON in response",
+      "attribute": "pants"
+    },
+    {
+      "error": "No JSON in response",
+      "attribute": "midi dress"
+    }
+  ],
+  "asos-products/asos_3_.jpg": [
+    {
+      "color": "deep burgundy/maroon floral pattern on a slightly lighter red background",
+      "material": "appears to be a velvet or velvet burnout fabric with floral motifs",
+      "occasion": "cocktail event, evening dinner, semi-formal gathering",
+      "style": "romantic, feminine, vintage-inspired",
+      "season": "fall/winter",
+      "unique_feature": "tonal floral burnout or velvet pattern creating textural interest while maintaining monochromatic elegance",
+      "era": "reminiscent of 1990s/early 2000s revival with contemporary execution",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "rich, dramatic, sophisticated with dimensional floral pattern",
+      "hardware": "none visible in this sleeveless mock-neck top portion",
+      "attribute": "floral"
+    },
+    {
+      "color": "burgundy red with darker floral pattern",
+      "material": "appears to be velvet or velour with burnout floral design",
+      "occasion": "cocktail party, evening event, semi-formal gathering",
+      "style": "fitted bodice with ruched detailing",
+      "season": "fall/winter",
+      "unique_feature": "sleeveless design with mock neck and burnout floral pattern",
+      "era": "contemporary with vintage-inspired elements",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "romantic, elegant, sophisticated",
+      "hardware": "none visible",
+      "attribute": "midi dress"
+    },
+    {
+      "color": "deep red with darker red floral pattern",
+      "material": "appears to be velvet or velvet burnout on mesh/sheer base",
+      "occasion": "cocktail event, evening gathering, semi-formal dinner",
+      "style": "contemporary feminine",
+      "season": "fall/winter",
+      "unique_feature": "mock neck with sleeveless cut creates elegant shoulder exposure while maintaining coverage",
+      "era": "modern with 90s revival influence",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "romantic sophistication",
+      "hardware": "none visible",
+      "attribute": "sleeveless"
+    },
+    {
+      "color": "burgundy red with darker red floral pattern",
+      "material": "appears to be a lightweight fabric, possibly chiffon or georgette",
+      "occasion": "semi-formal, evening out, dinner date",
+      "style": "fitted, sleeveless mock neck top with ruched detailing",
+      "season": "spring, summer, or fall with layering",
+      "unique_feature": "velvet floral burnout pattern with gathered/ruched waistline",
+      "era": "contemporary with vintage-inspired elements",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "romantic, feminine, sophisticated",
+      "hardware": "none visible",
+      "attribute": "maxi dress"
+    },
+    {
+      "color": "burgundy red with darker red floral pattern",
+      "material": "appears to be a lightweight semi-sheer fabric, possibly chiffon or mesh",
+      "occasion": "semi-formal, cocktail, date night",
+      "style": "fitted sleeveless top with gathered/ruched sides",
+      "season": "spring, summer, fall",
+      "unique_feature": "tonal floral burnout or flocked velvet pattern on semi-sheer base",
+      "era": "contemporary with vintage-inspired elements",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "romantic, feminine, sophisticated",
+      "hardware": "none visible",
+      "attribute": "v-neck"
+    }
+  ],
+  "asos-products/asos_106_.jpg": [
+    {
+      "color": "orange/yellow",
+      "material": "print on cotton/jersey",
+      "occasion": "casual",
+      "style": "vintage-inspired graphic tee",
+      "season": "all-season",
+      "unique_feature": "large tiger illustration with text/slogan",
+      "era": "2000s/Y2K revival",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "streetwear/urban",
+      "hardware": "none",
+      "attribute": "graphic"
+    },
+    {
+      "color": "charcoal gray",
+      "material": "cotton jersey",
+      "occasion": "casual",
+      "style": "oversized graphic t-shirt",
+      "season": "spring/summer",
+      "unique_feature": "bold orange tiger graphic with 'Champion' text",
+      "era": "contemporary with vintage graphic aesthetic",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "streetwear/vintage inspired",
+      "hardware": "none",
+      "attribute": "long-sleeve"
+    },
+    {
+      "color": "dark gray",
+      "material": "cotton jersey",
+      "occasion": "casual everyday wear",
+      "style": "oversized graphic tee",
+      "season": "year-round",
+      "unique_feature": "ribbed neckline with minimal stretch",
+      "era": "contemporary with vintage graphic influence",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "streetwear, vintage-inspired",
+      "hardware": "none",
+      "attribute": "crewneck"
+    },
+    {
+      "color": "charcoal gray",
+      "material": "cotton jersey or fleece (appears vintage washed)",
+      "occasion": "casual everyday wear",
+      "style": "oversized graphic t-shirt/sweatshirt",
+      "season": "fall/spring transitional piece",
+      "unique_feature": "bold orange tiger graphic with 'China' text design",
+      "era": "contemporary with vintage/retro graphic style influence",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "urban streetwear with retro collegiate/souvenir inspiration",
+      "hardware": "none visible",
+      "attribute": "sweatshirt"
+    },
+    {
+      "color": "charcoal grey",
+      "material": "cotton jersey",
+      "occasion": "casual everyday wear",
+      "style": "oversized graphic t-shirt",
+      "season": "spring/summer",
+      "unique_feature": "bold orange 'Higher Chaser' text with yellow tiger graphic print",
+      "era": "contemporary with 90s/Y2K revival influences",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "streetwear/vintage inspired",
+      "hardware": "none",
+      "attribute": "hoodie"
+    }
+  ],
+  "asos-jackets/jackets_6_.jpg": [
+    {
+      "color": "beige",
+      "material": "wool blend",
+      "occasion": "casual day out",
+      "style": "oversized utility",
+      "season": "fall/winter",
+      "unique_feature": "dropped shoulders with voluminous sleeve silhouette",
+      "era": "contemporary with 90s influence",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist utilitarian",
+      "hardware": "front zipper closure",
+      "attribute": "long-sleeve"
+    },
+    {
+      "color": "beige",
+      "material": "wool blend",
+      "occasion": "casual everyday",
+      "style": "oversized shacket",
+      "season": "fall/winter",
+      "unique_feature": "large front flap pockets",
+      "era": "contemporary",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist utilitarian",
+      "hardware": "front zipper closure",
+      "attribute": "hoodie"
+    },
+    {
+      "color": "beige",
+      "material": "wool blend",
+      "occasion": "casual everyday wear",
+      "style": "oversized shacket",
+      "season": "fall/winter",
+      "unique_feature": "large utilitarian flap pockets with visible stitching",
+      "era": "contemporary with 90s influence",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist normcore",
+      "hardware": "front zipper closure",
+      "attribute": "coat"
+    },
+    {
+      "color": "beige",
+      "material": "wool blend",
+      "occasion": "casual everyday",
+      "style": "oversized shacket",
+      "season": "fall/winter",
+      "unique_feature": "large utility pockets with flaps",
+      "era": "contemporary with 90s influence",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist utilitarian",
+      "hardware": "front zip closure",
+      "attribute": "leather"
+    },
+    {
+      "color": "beige",
+      "material": "wool blend",
+      "occasion": "casual, everyday",
+      "style": "oversized shacket",
+      "season": "fall/winter",
+      "unique_feature": "large utility pockets",
+      "era": "contemporary with 90s influence",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist, neutral toned",
+      "hardware": "zipper front closure",
+      "attribute": "colorblock"
+    }
+  ],
+  "asos-jackets/jackets_30_.jpg": [
+    {
+      "color": "off-white/cream",
+      "material": "synthetic quilted fabric with insulation",
+      "occasion": "casual outdoor, everyday winter wear",
+      "style": "sporty, contemporary puffer",
+      "season": "fall/winter",
+      "unique_feature": "high collar with wide cuffs at wrist",
+      "era": "contemporary, 2020s",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist outdoor sportswear",
+      "hardware": "front zipper closure, small logo branding",
+      "attribute": "long-sleeve"
+    },
+    {
+      "color": "cream/off-white",
+      "material": "synthetic/nylon",
+      "occasion": "casual outdoor, everyday winter wear",
+      "style": "contemporary puffer",
+      "season": "fall/winter",
+      "unique_feature": "high collar, quilted horizontal channels",
+      "era": "modern/contemporary",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist sporty",
+      "hardware": "front zipper closure",
+      "attribute": "fur"
+    },
+    {
+      "color": "cream",
+      "material": "quilted synthetic fabric",
+      "occasion": "casual outdoor wear",
+      "style": "puffer jacket",
+      "season": "fall/winter",
+      "unique_feature": "high collar with slight funnel neck design",
+      "era": "contemporary",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist sporty",
+      "hardware": "front zipper closure",
+      "attribute": "coat"
+    },
+    {
+      "color": "cream",
+      "material": "quilted synthetic",
+      "occasion": "casual outdoor, winter activities",
+      "style": "sporty, contemporary",
+      "season": "winter, fall",
+      "unique_feature": "integrated hood with high collar design",
+      "era": "2020s",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist outdoor wear",
+      "hardware": "front zipper closure, visible brand logo",
+      "attribute": "hoodie"
+    },
+    {
+      "color": "cream",
+      "material": "quilted synthetic/down",
+      "occasion": "casual, outdoor, everyday",
+      "style": "puffer jacket",
+      "season": "fall/winter",
+      "unique_feature": "high collar with padded neck protection",
+      "era": "contemporary",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "minimalist, sporty, practical",
+      "hardware": "front zipper closure",
+      "attribute": "jacket"
+    }
+  ],
+  "asos-dresses/dresses_6_.jpg": [
+    {
+      "color": "light blue",
+      "material": "appears to be lightweight cotton or linen blend",
+      "occasion": "summer casual, beach outing, resort wear",
+      "style": "bohemian, relaxed maxi dress",
+      "season": "spring/summer",
+      "unique_feature": "smocked bodice with drop waist design",
+      "era": "contemporary with bohemian influence",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "breezy, ethereal, minimalist summer",
+      "hardware": "none visible",
+      "attribute": "maxi dress"
+    },
+    {
+      "color": "light blue",
+      "material": "appears to be linen or lightweight cotton",
+      "occasion": "summer casual, beach outing, resort wear",
+      "style": "bohemian, relaxed fit maxi/midi dress",
+      "season": "spring/summer",
+      "unique_feature": "smocked/shirred bodice with flowy skirt transition",
+      "era": "contemporary with bohemian influences",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "breezy, effortless, coastal, minimalist",
+      "hardware": "none visible, features simple spaghetti straps",
+      "attribute": "midi dress"
+    },
+    {
+      "color": "light blue",
+      "material": "chiffon",
+      "occasion": "summer gathering, beach event, resort wear",
+      "style": "bohemian, ethereal, feminine",
+      "season": "summer, spring",
+      "unique_feature": "smocked bodice with flowing skirt silhouette",
+      "era": "contemporary with 70s boho influence",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "airy, floaty, lightweight, breezy",
+      "hardware": "none visible",
+      "attribute": "chiffon"
+    },
+    {
+      "color": "light blue",
+      "material": "appears to be lightweight cotton or linen",
+      "occasion": "casual summer day, beach outing, vacation",
+      "style": "boho-inspired, relaxed maxi dress",
+      "season": "spring/summer",
+      "unique_feature": "smocked bodice with dropped waist design",
+      "era": "contemporary with bohemian influences",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "airy, effortless, feminine summer style",
+      "hardware": "none visible",
+      "attribute": "crewneck"
+    },
+    {
+      "color": "light blue",
+      "material": "appears to be lightweight cotton or linen",
+      "occasion": "casual summer day, beach outing, vacation",
+      "style": "bohemian, relaxed maxi dress",
+      "season": "spring/summer",
+      "unique_feature": "smocked bodice with flowy skirt",
+      "era": "contemporary with bohemian influence",
+      "casual_or_relaxed": true,
+      "visual_aesthetic": "ethereal, breezy, resort-wear",
+      "hardware": "none visible",
+      "attribute": "v-neck"
+    }
+  ],
+  "asos-dresses/dresses_7_.jpg": [
+    {
+      "error": "No JSON in response",
+      "attribute": "shoulder bag"
+    },
+    {
+      "error": "No JSON in response",
+      "attribute": "leather"
+    },
+    {
+      "color": "pastel mix of pink, cream, and soft blue floral patterns",
+      "material": "appears to be lightweight sequined or embellished fabric with floral appliqu\u00e9 or embroidery",
+      "occasion": "garden party, spring celebration, semi-formal outdoor event",
+      "style": "romantic, feminine, vintage-inspired",
+      "season": "spring/summer",
+      "unique_feature": "asymmetrical floral detailing along one side of the garment with dimensional flower elements",
+      "era": "contemporary with 1970s bohemian influences",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "ethereal, dreamy, botanical garden-inspired elegance",
+      "hardware": "none visible, relies on textile embellishments rather than metallic elements",
+      "attribute": "floral"
+    },
+    {
+      "color": "multi-colored with pink, cream, and floral patterns",
+      "material": "sequined fabric with textural embellishments",
+      "occasion": "formal, evening events, cocktail parties",
+      "style": "asymmetrical, column silhouette with mixed pattern panels",
+      "season": "spring/summer",
+      "unique_feature": "contrasting sequin panels with floral pattern sections and asymmetrical design elements",
+      "era": "contemporary with vintage-inspired elements",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "romantic glamour with textural interest",
+      "hardware": "none visible",
+      "attribute": "maxi dress"
+    },
+    {
+      "color": "Mixed pastel pink, cream, and floral prints",
+      "material": "Appears to be lightweight sequined or embellished fabric with sheer elements",
+      "occasion": "Formal evening, cocktail party, special event",
+      "style": "Romantic, bohemian-inspired, asymmetrical",
+      "season": "Spring/Summer",
+      "unique_feature": "Mixed pattern panels with asymmetrical placement, sequin or embellished details",
+      "era": "Contemporary with vintage-inspired elements",
+      "casual_or_relaxed": false,
+      "visual_aesthetic": "Romantic, ethereal, feminine luxury",
+      "hardware": "None visible",
+      "attribute": "scarf"
+    }
+  ]
+}
